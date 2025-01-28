@@ -8,5 +8,5 @@ favorite things to do:
 - games! carom, osu, wordle
 - sports & outside! love running & cycling; amateur at rock-climbing, volleyball, and soccer
 - trying new things! 
-- long conversations with cool people! reach out if you'd like to chat: <first name last name> [dot] tech [at] gmail
+- long conversations with cool people! reach out if you'd like to chat: rhearai \[dot\] tech \[at\] gmail
 
