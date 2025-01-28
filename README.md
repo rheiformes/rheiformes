@@ -6,6 +6,7 @@ favorite things to do:
 - code! anything from low-level systems to robotics
 - music! classically trained violist and indie rock concert-enjoyer
 - games! carom, osu, wordle
+- sports & outside! love running & cycling; amateur at rock-climbing, volleyball, and soccer
 - trying new things! 
 - long conversations with cool people! reach out if you'd like to chat: <first name last name> [dot] tech [at] gmail
 
