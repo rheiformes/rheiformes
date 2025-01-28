@@ -4,7 +4,7 @@ currently - studying cs as a turing scholar @ ut austin!
 
 favorite things to do:
 - code! anything from low-level systems to robotics
-- music! classically trained violist and indie rock concert-enjoyer
+- music! classically trained violist, all-genre concert-enjoyer, avid spotify user
 - games! carom, osu, wordle
 - sports & outside! love running & cycling; amateur at rock-climbing, volleyball, and soccer
 - trying new things! 
