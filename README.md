@@ -1,4 +1,4 @@
-==howdy from my corner of the internet!==
+**howdy from my corner of the internet!**
 
 currently - studying cs as a turing scholar @ ut austin!
 
