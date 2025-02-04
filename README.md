@@ -1,6 +1,6 @@
 **howdy from my corner of the internet!**
 
-currently - studying cs as a turing scholar @ ut austin!
+currently - studying computer science as a turing scholar @ ut austin!
 
 favorite things to do:
 - code! anything from low-level systems to robotics
