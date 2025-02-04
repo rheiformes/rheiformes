@@ -10,3 +10,4 @@ favorite things to do:
 - trying new things! 
 - long conversations with cool people! reach out if you'd like to chat: rhearai \[dot\] tech \[at\] gmail
 
+![fun stats](https://github-readme-stats.vercel.app/api/top-langs?username=rheiformes&langs_count=8&layout=compact&theme=dark)
