@@ -3,7 +3,7 @@
 currently - studying computer science as a turing scholar @ ut austin!
 
 favorite things to do:
-- code! anything from low-level systems to robotics
+- code! anything from low-level systems to [robotics](https://github.com/AbhinavPeri/JugglingIsaacGymEnvs)
 - music! classically trained violist, all-genre concert-enjoyer, [avid spotify user](https://open.spotify.com/user/1hiprbqaie8knj690gib32k8t)
 - games! carom, osu, wordle, ers, spoons
 - sports & outside! love running & cycling; still an amateur at rock-climbing, volleyball, and soccer
