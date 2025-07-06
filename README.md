@@ -8,7 +8,7 @@ favorite things to do:
 - games! carom, osu, wordle, ers, spoons
 - sports & outside! love running & cycling; still an amateur at rock-climbing, volleyball, and soccer
 - trying new things! 
-- long conversations with cool people! reach out if you'd like to chat: rhearai \[dot\] tech \[at\] gmail. for redacted projects from resume, please contact me here.
+- long conversations with cool people! reach out if you'd like to chat: **rhearai \[dot\] tech \[at\] gmail. for redacted projects from resume, please contact me here.**
 
 ![fun stats tool called github readme](https://github-readme-stats-one-eta-61.vercel.app/api/top-langs?username=rheiformes&langs_count=8&layout=compact&&bg_color=ffffff&title_color=000000&text_color=000000&font=courier&hide=Jupyter%20Notebook)
 
