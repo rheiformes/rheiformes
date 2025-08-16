@@ -13,3 +13,4 @@ favorite things to do:
 
 ![fun stats tool called github readme](https://github-readme-stats-one-eta-61.vercel.app/api/top-langs?username=rheiformes&langs_count=8&layout=compact&&bg_color=ffffff&title_color=000000&text_color=000000&font=courier&hide=Jupyter%20Notebook)
 
+> (this graph is honestly not the most accurate bc it's only based on file size of my public repos but it's fun to see)
