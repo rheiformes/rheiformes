@@ -1,4 +1,4 @@
-**howdy from my corner of the internet!**
+**hello from my corner of the internet!**
 
 currently - studying computer science as a turing scholar @ ut austin!
 
