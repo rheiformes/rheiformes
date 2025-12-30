@@ -12,4 +12,4 @@ favorite things to do:
 - `long conversations with cool people!` reach out if you'd like to chat: **rhearai \[dot\] tech \[at\] gmail**
   - _**for info on private code/projects, please contact me here.**_
 
-![fun stats tool called github readme](https://github-readme-stats-one-eta-61.vercel.app/api/top-langs?username=rheiformes&langs_count=8&layout=compact&&bg_color=ffffff&title_color=000000&text_color=000000&font=courier&hide=Jupyter%20Notebook)
+![fun stats tool called github readme](https://github-readme-stats-one-eta-61.vercel.app/api/top-langs?username=rheiformes&langs_count=8&layout=compact&&bg_color=ffffff&title_color=000000&text_color=000000&font=courier&hide=Jupyter%20Notebook,Clojure)
